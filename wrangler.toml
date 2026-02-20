@@ -1,0 +1,7 @@
+name = "abyss-rs"
+main = "index.js"
+compatibility_date = "2026-02-15"
+
+[rules]
+globs = ["**/*.wasm"]
+type = "CompiledWasm"
