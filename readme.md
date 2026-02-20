@@ -6,4 +6,4 @@ A high-performance Cloudflare Worker built in Rust and compiled to WebAssembly. 
 
 The easiest way to get your own instance running is to use the button below:
 
-[![Deploy to Cloudflare Workers](https://deploy.workers.cloudflare.com/button)](https://deploy.workers.cloudflare.com/pages/import?bundle_url=https://github.com/Toasty360/abyss-rs)
+[![Deploy to Cloudflare Workers](https://deploy.workers.cloudflare.com/button)](https://deploy.workers.cloudflare.com/?url=https://github.com/Dungeon69/abyss-rs)
